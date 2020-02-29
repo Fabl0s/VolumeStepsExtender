@@ -1,0 +1,7 @@
+id=VolumeStepsExtender
+name=Volume Steps Extender
+version=v1.0
+versionCode=1
+author=Fablos
+description=A magisk module to Increase the Volume Steps.
+support=https://github.com/Fabl0s/VolumeStepsExtender
